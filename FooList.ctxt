@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FooList
+comment1.params=length
+comment1.target=FooList(int)
+comment2.params=obj
+comment2.target=boolean\ add(java.lang.String)
+comment3.params=index\ obj
+comment3.target=void\ add(int,\ java.lang.String)
+comment4.params=index\ obj
+comment4.target=java.lang.String\ set(int,\ java.lang.String)
+comment5.params=i\ j
+comment5.target=java.lang.String\ get(int,\ int)
+comment6.params=j
+comment6.target=java.lang.String\ getColumn(int)
+numComments=7
